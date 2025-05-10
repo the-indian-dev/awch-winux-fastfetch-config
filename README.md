@@ -1,6 +1,6 @@
 ### Awch Winux Fastfetch config
 
-![Screenshot of the fastfetch theme](ss.jpg)
+![Screenshot of the fastfetch theme](ss.webp)
 
 [Wallpaper](https://danbooru.donmai.us/posts/6503608)
 
